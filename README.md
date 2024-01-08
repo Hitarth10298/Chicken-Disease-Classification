@@ -16,5 +16,3 @@
 docker build -t chickenapplication.azurecr.io/chicken:latest .
 docker login chickenapplication.azurecr.io
 docker push chickenapplication.azurecr.io/chicken:latest
-
-password : FaKSbJdrM+1/yj1agAzkrvPkpd64RpiL+HbhvyCWrG+ACRCdOYqF
